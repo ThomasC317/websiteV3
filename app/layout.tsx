@@ -7,8 +7,8 @@ const _geist = Geist({ subsets: ["latin"], variable: "--font-geist" });
 const _jetbrainsMono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-jetbrains" });
 
 export const metadata: Metadata = {
-  title: 'Alex Chen | Senior Developer',
-  description: 'Senior Full-Stack Developer specializing in building exceptional digital experiences',
+  title: 'Thomas CERDERA | Développeur Web Confirmé',
+  description: 'Développeur web confirmé spécialisé en C# et Typescript, avec une passion pour la création de solutions innovantes et performantes. Découvrez mon parcours, mes compétences et mes projets sur mon portfolio.',
   generator: 'v0.app',
   icons: {
     icon: [
