@@ -39,7 +39,7 @@ export function FormationsSection() {
         <div className="flex items-center gap-4 mb-12">
           <div className="w-3 h-3 rounded-full bg-terminal animate-pulse" />
           <h2 className="text-3xl md:text-4xl font-bold text-foreground">
-            Training Protocol
+            Formations
           </h2>
         </div>
 
